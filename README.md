@@ -27,7 +27,7 @@ $ sudo apt install libz-dev pkg-config libncurses5-dev flex bison cmake g++ gnut
 
 ## Source Code Compilation
 
-Download the [source code](https://drive.google.com/file/d/17Vq997xkoLM_Bc7g1mxqRt5o66hzJ_Ld/view?usp=sharing).
+Download the source code.
 
 ```bash
 # Unzip the source code archive
